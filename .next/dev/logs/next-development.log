@@ -1,0 +1,470 @@
+[00:00:01.100] Server  WARN     ⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+[00:00:01.254] Server  LOG      ✓ Ready in 942ms
+[00:00:38.358] Server  LOG      ✓ Compiled in 3ms
+[00:00:49.639] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:00:49.649] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:00:52.176] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:52.612] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/login" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en" className="dark">
+                          <body
++                           className="inter_c15e96cb-module__0bjUvq__variable jetbrains_mono_7ea1d0f9-module__6GV5LG_..."
+-                           className="inter_c15e96cb-module__0bjUvq__variable jetbrains_mono_7ea1d0f9-module__6GV5LG_..."
+                          >
+                  ...
+
+[00:02:47.737] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:02:50.952] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:03:25.841] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:03:28.421] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:03:33.787] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:03:39.944] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:03:41.945] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:03:43.089] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:03:47.368] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:03:49.510] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:03:50.941] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:03:52.854] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:03:54.202] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:04:07.067] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:04:08.617] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:04:10.552] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:04:15.287] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:04:16.433] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:04:17.336] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:04:22.597] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:05:10.725] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:05:12.712] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:05:13.331] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:22.456] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:05:22.494] Server  LOG      ✓ Compiled in 61ms
+[00:05:24.438] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:05:24.480] Server  LOG      ✓ Compiled in 47ms
+[00:05:33.844] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:05:33.885] Server  LOG      ✓ Compiled in 35ms
+[00:05:35.895] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:05:35.936] Server  LOG      ✓ Compiled in 50ms
+[00:05:37.143] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:05:37.184] Server  LOG      ✓ Compiled in 42ms
+[00:05:39.170] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:05:39.209] Server  LOG      ✓ Compiled in 33ms
+[00:05:39.237] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:05:39.549] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:05:39.850] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:41.195] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:05:41.230] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:05:41.281] Server  LOG      ✓ Compiled in 43ms
+[00:05:41.495] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:41.664] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:05:41.962] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:53.304] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:05:54.196] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:05:54.237] Server  LOG      ✓ Compiled in 30ms
+[00:05:58.527] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:05:58.570] Server  LOG      ✓ Compiled in 47ms
+[00:06:37.285] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:06:39.010] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:07:12.520] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:07:12.569] Server  LOG      ✓ Compiled in 51ms
+[00:07:28.403] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:07:29.240] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:29.684] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/signup" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en" className="dark">
+                          <body
++                           className="inter_c15e96cb-module__0bjUvq__variable jetbrains_mono_7ea1d0f9-module__6GV5LG_..."
+-                           className="inter_c15e96cb-module__0bjUvq__variable jetbrains_mono_7ea1d0f9-module__6GV5LG_..."
+                          >
+                  ...
+
+[00:07:33.144] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:07:34.133] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:34.580] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/login" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en" className="dark">
+                          <body
++                           className="inter_c15e96cb-module__0bjUvq__variable jetbrains_mono_7ea1d0f9-module__6GV5LG_..."
+-                           className="inter_c15e96cb-module__0bjUvq__variable jetbrains_mono_7ea1d0f9-module__6GV5LG_..."
+                          >
+                  ...
+
+[00:07:38.099] Server  ERROR   Middleware auth error: AuthSessionMissingError: Auth session missing!
+    at ignore-listed frames {
+  __isAuthError: true,
+  status: 400,
+  code: undefined
+}
+[00:07:39.085] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:39.515] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en" className="dark">
+                          <body
++                           className="inter_c15e96cb-module__0bjUvq__variable jetbrains_mono_7ea1d0f9-module__6GV5LG_..."
+-                           className="inter_c15e96cb-module__0bjUvq__variable jetbrains_mono_7ea1d0f9-module__6GV5LG_..."
+                          >
+                  ...
+
+[00:12:16.799] Server  LOG      ✓ Compiled in 275ms
+[00:12:16.808] Server  ERROR   C:\Users\darrd\.gemini\antigravity\playground\dark-nadir\node_modules\next\dist\lib\recursive-readdir.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:12:16.808] Server  ERROR   C:\Users\darrd\.gemini\antigravity\playground\dark-nadir\node_modules\next\dist\server\route-matcher-providers\dev\helpers\file-reader\batched-file-reader.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:12:16.809] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\Users\darrd\.gemini\antigravity\playground\dark-nadir\app'
+[00:12:16.810] Server  ERROR   C:\Users\darrd\.gemini\antigravity\playground\dark-nadir\node_modules\next\dist\lib\recursive-readdir.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:12:16.810] Server  ERROR   C:\Users\darrd\.gemini\antigravity\playground\dark-nadir\node_modules\next\dist\server\route-matcher-providers\dev\helpers\file-reader\batched-file-reader.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:12:16.811] Server  ERROR    ⨯ "unhandledRejection:" Error: ENOENT: no such file or directory, scandir 'C:\Users\darrd\.gemini\antigravity\playground\dark-nadir\app'
+[00:12:16.811] Server  ERROR   C:\Users\darrd\.gemini\antigravity\playground\dark-nadir\node_modules\next\dist\lib\recursive-readdir.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:12:16.811] Server  ERROR   C:\Users\darrd\.gemini\antigravity\playground\dark-nadir\node_modules\next\dist\server\route-matcher-providers\dev\helpers\file-reader\batched-file-reader.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:12:16.812] Server  ERROR    ⨯ "unhandledRejection: " Error: ENOENT: no such file or directory, scandir 'C:\Users\darrd\.gemini\antigravity\playground\dark-nadir\app'
+[00:12:16.826] Server  ERROR   C:\Users\darrd\.gemini\antigravity\playground\dark-nadir\node_modules\next\dist\lib\recursive-readdir.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:12:16.827] Server  ERROR   C:\Users\darrd\.gemini\antigravity\playground\dark-nadir\node_modules\next\dist\server\route-matcher-providers\dev\helpers\file-reader\batched-file-reader.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:12:16.827] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\Users\darrd\.gemini\antigravity\playground\dark-nadir\app'
+[00:12:16.828] Server  ERROR   C:\Users\darrd\.gemini\antigravity\playground\dark-nadir\node_modules\next\dist\lib\recursive-readdir.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:12:16.828] Server  ERROR   C:\Users\darrd\.gemini\antigravity\playground\dark-nadir\node_modules\next\dist\server\route-matcher-providers\dev\helpers\file-reader\batched-file-reader.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:12:16.829] Server  ERROR    ⨯ "unhandledRejection:" Error: ENOENT: no such file or directory, scandir 'C:\Users\darrd\.gemini\antigravity\playground\dark-nadir\app'
+[00:12:16.829] Server  ERROR   C:\Users\darrd\.gemini\antigravity\playground\dark-nadir\node_modules\next\dist\lib\recursive-readdir.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:12:16.830] Server  ERROR   C:\Users\darrd\.gemini\antigravity\playground\dark-nadir\node_modules\next\dist\server\route-matcher-providers\dev\helpers\file-reader\batched-file-reader.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:12:16.830] Server  ERROR    ⨯ "unhandledRejection: " Error: ENOENT: no such file or directory, scandir 'C:\Users\darrd\.gemini\antigravity\playground\dark-nadir\app'
+[00:12:17.038] Server  LOG      ✓ Compiled in 2ms
+[00:12:17.286] Server  LOG      ✓ Compiled in 12ms
